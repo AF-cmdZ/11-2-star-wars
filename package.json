@@ -1,5 +1,5 @@
 {
-  "name": "node-starter",
+  "name": "star-wars-app",
   "version": "1.0.0",
   "engines": {
     "node": ">=14.7.3"
@@ -14,7 +14,7 @@
   "keywords": [
     "nodejs"
   ],
-  "author": "Manav Misra",
+  "author": "Ashley Fish",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^7.30.0",
@@ -22,5 +22,8 @@
     "eslint-config-xo": "^0.37.0",
     "nodemon": "^2.0.12",
     "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
